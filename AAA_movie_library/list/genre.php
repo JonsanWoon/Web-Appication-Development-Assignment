@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <?php include("../includes/style.css")?>
+    <link rel="stylesheet" type="text/css" href="../includes/style.css">
     <?php include("../includes/header.php")?>
     <?php include("../includes/navigation.php")?>
     <?php include("../list/connect.php")?>

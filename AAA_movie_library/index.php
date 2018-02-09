@@ -4,8 +4,7 @@
     <title>
       AAA Movie Library
     </title>
-    
-    <?php include("includes/style.css")?>
+    <link rel="stylesheet" type="text/css" href="includes/style.css">
     <?php include("includes/header.php")?>
     <?php include("includes/navigation.php")?>
 
